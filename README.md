@@ -30,7 +30,7 @@
 
 ### 📬 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/marcelo-nascimento-gomes/)]
+https://www.linkedin.com/in/marcelo-nascimento-gomes
 
 ---
 
