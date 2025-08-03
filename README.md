@@ -1,5 +1,5 @@
 
-## 👋 Olá! Eu sou o Marcelo Nascimento
+## 👋 Marcelo Nascimento
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em desenvolvimento back-end com Java  
